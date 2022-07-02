@@ -9,4 +9,4 @@ _La intalacion de las herramientas de microsoft para desarrollar en CSharp_
 
 ### Instalación 🔧
 
-_Copiar y pegar}._
+_Copiar y pegar._
